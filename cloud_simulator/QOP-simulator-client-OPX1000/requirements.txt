@@ -1,0 +1,4 @@
+qm-qua==1.2.0
+qm-saas==1.0.2
+requests==2.31.0
+matplotlib
